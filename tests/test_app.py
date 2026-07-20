@@ -3,7 +3,7 @@ Basic tests for InsureLite API.
 Run with: pytest tests/
 """
 import pytest
-from app import app
+from app import main
 
 
 @pytest.fixture
